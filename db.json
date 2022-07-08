@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": "5eb71f22-c9ce-476e-8abe-0e7c3fa5e021",
+      "name": "Phan Quoc Toan",
+      "email": "phanqu6ctoan@gmail.com"
+    },
+    {
+      "id": "6ca9b08a-82d9-45b1-a736-ebcf2cf2a4a0",
+      "name": "Lý Nhã Kỳ",
+      "email": "kyky1989@gmail.com"
+    },
+    {
+      "id": "6f370dc3-02bd-4a01-8875-9e2bc73ecf8a",
+      "name": "Phùng Hổ Ban",
+      "email": "lkou09mumu"
+    }
+  ]
+}
